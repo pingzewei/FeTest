@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="28459" started-at="2017-09-13T08:44:45Z" finished-at="2017-09-13T08:45:14Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="28459" started-at="2017-09-13T08:44:45Z" finished-at="2017-09-13T08:45:14Z">
+      <class name="com.zjj.fe.First.NewTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zjj.fe.First.NewTest@7ac7a4e4]" name="setUp" is-config="true" duration-ms="16674" started-at="2017-09-13T16:44:45Z" finished-at="2017-09-13T16:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addContact()[pri:0, instance:com.zjj.fe.First.NewTest@7ac7a4e4]" name="addContact" duration-ms="11761" started-at="2017-09-13T16:45:02Z" finished-at="2017-09-13T16:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+      </class> <!-- com.zjj.fe.First.NewTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
